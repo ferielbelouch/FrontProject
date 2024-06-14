@@ -12,6 +12,10 @@ Assurez-vous d'avoir les éléments suivants installés sur votre machine :
 - Un serveur web (Apache, Nginx, etc.)
 - Une base de données (MySQL, PostgreSQL, etc.)
 
+  
+## Lancement du projet par Script
+Récupérer un des scripts "start_project" et le lancer dans PowerShell pour le .ps1 et dans un cmd linux ou Git Bash pour le .sh.
+
 ## Installation
 
 1. Clonez le repository :
